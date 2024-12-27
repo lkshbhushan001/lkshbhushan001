@@ -1,8 +1,33 @@
 # 💫 About Me:
 
-Full-stack developer & data enthusiast skilled in .NET, Azure, Python, R, ML/DNN. Passionate about innovative projects merging tech & data. Let's collaborate!
+🚀 Data Science Enthusiast | Machine Learning Engineer | Graduate Research Assistant**  
+🌟 Hi there! I’m Lokesh Bhushan, a passionate data scientist and machine learning enthusiast with a strong foundation in engineering and data analytics. I'm currently pursuing my Master’s in Data Analytics. My academic and professional journey has been dedicated to solving real-world problems using cutting-edge AI and machine learning techniques.
 
+---
 
+🔬 Research Highlights
+- Wildfire Risk Mitigation: Quantified lag times between prescribed burns and wildfires, analyzed vegetation risks, and recommended fire management strategies using geospatial and temporal data.
+- Wildfire Prediction Modeling: Leveraged Python and TensorFlow to predict wildfire behavior, conducting in-depth statistical analyses for trend identification.
+
+---
+
+💻 Professional Experience
+- Graduate Research Assistant: State University of New York, Buffalo  
+- Machine Learning Engineer: Designed attrition models and automated NLP pipelines.  
+- Data Scientist: Built predictive models for cloud resource optimization and anomaly detection.
+
+---
+
+🛠️ Skills & Expertise
+- Languages & Frameworks: Python, TensorFlow, PyTorch, SQL, LangChain  
+- Specialized Techniques: Predictive Modeling, Feature Engineering, LSTMs, CNNs, RAG  
+- Tools: Azure, Matplotlib, Seaborn  
+
+---
+
+🌟 Notable Projects
+- *LangChain Chatbot*: Real-time AI chatbot with RAG for context-aware, document-specific query handling.  
+- *Fraud Detection:* Engineered high-performing ML models to detect fraudulent transactions in large datasets.  
 
 
 
