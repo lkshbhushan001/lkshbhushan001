@@ -34,9 +34,7 @@
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lokesh-bhushan/) 
-
-[![Facebook]([https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white](https://img.shields.io/badge/facebook-%230077B5.svg?logo=facebook&logoColor=white)))](https://www.facebook.com/lkshbhushan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lokesh-bhushan/) [![Facebook](https://img.shields.io/badge/facebook-%230077B5.svg?logo=facebook&logoColor=white)](https://www.facebook.com/lkshbhushan)
 
 # 💻 Tech Stack:
 
