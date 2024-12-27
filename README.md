@@ -1,7 +1,7 @@
 # 💫 About Me:
 
-🚀 Data Science Enthusiast | Machine Learning Engineer | Graduate Research Assistant**  
-🌟 Hi there! I’m Lokesh Bhushan, a passionate data scientist and machine learning enthusiast with a strong foundation in engineering and data analytics. I'm currently pursuing my Master’s in Data Analytics. My academic and professional journey has been dedicated to solving real-world problems using cutting-edge AI and machine learning techniques.
+🚀 Data Science & Machine Learning Enthusiast | Graduate Research Assistant | Software Development Engineer  
+🌟 Hi there! I’m Lokesh Bhushan, a web developer and a passionate data science and machine learning enthusiast with a strong foundation in engineering and data analytics. I'm currently pursuing my Master’s in Data Analytics. My academic and professional journey has been dedicated to solving real-world problems using cutting-edge AI and machine learning techniques.
 
 ---
 
